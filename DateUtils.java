@@ -2,6 +2,10 @@ public class DateUtils{
 
      DateUtils(){  
 	//logic
+   if(i<10){
+   
+   a+b=c
+   }
      }  
 
 
